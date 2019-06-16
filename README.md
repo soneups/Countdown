@@ -16,7 +16,7 @@ Hardware and Software countdown projects
 ```
 #### Breadboard and wiring layout
 
-#### Circuit Python code for the actual countdown clock [code.py](../blob/master/ItsyBitsyM4/CIRCUITPYTHON/code_working.py)
+#### Circuit Python code for the actual countdown clock [code.py](../master/ItsyBitsyM4/CIRCUITPYTHON/code_working.py)
 ```python
 #.
 # Windows 7 countdown to end of support - python datetime library not available :-o
