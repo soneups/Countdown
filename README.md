@@ -17,8 +17,9 @@ Hardware and Software countdown projects
 #### Breadboard and wiring layout
 
 #### Circuit Python code for the actual countdown clock
+```python
+#Circuit Python code
+```
 
-
-
-###### remove me markdown
+###### remove me
 + Learning the art of markdown via [https://jbt.github.io/markdown-editor/] and [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
