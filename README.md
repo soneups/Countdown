@@ -6,6 +6,18 @@ Hardware and Software countdown projects
 + Adafruit 4 x 14-Seg FeatherWing [http://adafru.it/3089] Dual Alphanumeric Display White x 2 [http://adafru.it/2153]
 + DS3231 Precision RTC FeatherWing - RTC Add-on For Feather Board - [http://adafru.it/3028]
 
+### Device addressing
+Using i2c addresses, the display is (default) 0x70 and the RTC is 0x68 (which cannot be changed)
+It is possible to drive additional displays by soldering the Address Jumpers on the FeatherWing jumpers A0 (+1), A1 (+2) and A2 (+4) adding
+
+### Using CircuitPython via REPL to display the i2c addresses of connected kit
+```python
+#Python code
+```
+### using Python on a Raspberry pi to display the i2c addresses of connected kit
+```python
+#Python code
+```
 #### Setting the date & time via a Raspberry Pi
 ```python
 #Python code
