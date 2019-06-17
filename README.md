@@ -3,6 +3,8 @@ Hardware and Software countdown projects
 
 ![alt text](https://garys.one/wp-content/uploads/2019/06/img_1011-1-e1560792176341.jpg "Breadboard")
 
+![alt text](https://garys.one/wp-content/uploads/2019/06/img_1013-1-e1560792457893-1024x617.jpg "With display")
+
 ## Hardware list
 + ItsyBitsy M4 Express [http://adafru.it/3800]
 + Adafruit 4 x 14-Seg FeatherWing [http://adafru.it/3089] Dual Alphanumeric Display White x 2 [http://adafru.it/2153]
