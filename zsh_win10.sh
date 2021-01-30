@@ -1,5 +1,5 @@
 # ! / b i n / b a s h   - x
-# this file -- https://raw.githubusercontent.com/soneups/Countdown/zsh_win10.sh
+# this file -- https://raw.githubusercontent.com/soneups/Countdown/master/zsh_win10.sh
 
 echo "as of" `date +%d/%m/%Y` 
 # A="2021-30-1"
